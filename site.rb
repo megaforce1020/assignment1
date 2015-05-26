@@ -1,5 +1,5 @@
 require "sinatra"
 
-get "/spanish" do
-  "Hola"
+get "/" do
+  erb :index
 end
