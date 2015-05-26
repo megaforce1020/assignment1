@@ -1,5 +1,5 @@
 require "sinatra"
 
-get "/" do
-  "I'm alive!"
+get "/italian" do
+  "ciao"
 end
