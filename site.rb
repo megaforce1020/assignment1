@@ -1,5 +1,5 @@
 require "sinatra"
 
-get "/italian" do
-  "ciao"
+get "/spanish" do
+  "Hola"
 end
