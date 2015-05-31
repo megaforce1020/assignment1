@@ -1,5 +1,5 @@
 require "sinatra"
 
-get "/read_more" do
-  erb :read_more
+get "/" do
+  erb :index
 end
